@@ -5,3 +5,5 @@ Projects:
 1) House Prices 
 2) Titanic
 3) Digit Recognition
+4) Covid-19
+5) Stock Market
